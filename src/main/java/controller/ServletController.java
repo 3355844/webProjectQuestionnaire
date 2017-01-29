@@ -9,10 +9,8 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 /**
  * Created by user on 25.01.2017.
@@ -22,9 +20,8 @@ public class ServletController extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         ArrayList<String> transport = new ArrayList<String>();
         ArrayList<Human> humans;
-        Human human = new Human();
         HumanManager humanManager = new HumanManager();
-
+        Human human = new Human();
         human.setHumanName(request.getParameter("name"));
         human.setHumanAge(Integer.parseInt(request.getParameter("age")));
         human.setHumanSalary(Double.parseDouble(request.getParameter("salary")));
@@ -50,12 +47,11 @@ public class ServletController extends HttpServlet {
         StatisticManager statisticManager = new StatisticManager(humanManager);
         request.setAttribute("statisticManager", statisticManager);
         System.out.println(statisticManager.toString());
-        request.getRequestDispatcher("welcome.jsp").forward(request, response);
+        request.getRequestDispatcher("result.jsp").forward(request, response);
 
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-//        System.out.println("to welcome page");
         request.getRequestDispatcher("welcome.jsp").forward(request, response);
     }
 }
