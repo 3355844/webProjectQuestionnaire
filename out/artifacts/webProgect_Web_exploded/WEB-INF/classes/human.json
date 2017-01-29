@@ -1,1 +1,247 @@
-{"path":"C:/Users/33558/IdeaProjects/webProjectQuestionnaire/src/main/resources/human.json","humans":[{"humanName":"andrew","humanAge":39,"humanSex":true,"humanSalary":1000.0,"humanTransport":["car","liner","air liner"]},{"humanName":"andrew","humanAge":39,"humanSex":true,"humanSalary":1000.0,"humanTransport":["car","liner","air liner"]},{"humanName":"andrew","humanAge":39,"humanSex":true,"humanSalary":1000.0,"humanTransport":["car","liner","air liner"]},{"humanName":"andrew","humanAge":25,"humanSex":true,"humanSalary":500.0,"humanTransport":["car","boat","motorcycle"]},{"humanName":"andrew","humanAge":25,"humanSex":true,"humanSalary":500.0,"humanTransport":["car","boat","motorcycle"]},{"humanName":"andrew","humanAge":25,"humanSex":true,"humanSalary":500.0,"humanTransport":["car","boat","motorcycle"]},{"humanName":"andrew","humanAge":25,"humanSex":true,"humanSalary":500.0,"humanTransport":["car","boat","motorcycle"]},{"humanName":"andrew","humanAge":25,"humanSex":true,"humanSalary":500.0,"humanTransport":["car","boat","motorcycle"]},{"humanName":"andrew","humanAge":25,"humanSex":true,"humanSalary":500.0,"humanTransport":["car","boat","motorcycle"]},{"humanName":"andrew","humanAge":25,"humanSex":true,"humanSalary":500.0,"humanTransport":["car","boat","motorcycle"]},{"humanName":"andrew","humanAge":30,"humanSex":false,"humanSalary":1500.0,"humanTransport":["car","boat","bicycle"]},{"humanName":"Julia","humanAge":23,"humanSex":false,"humanSalary":1500.0,"humanTransport":["car","boat","bicycle"]},{"humanName":"Julia","humanAge":23,"humanSex":false,"humanSalary":1500.0,"humanTransport":["car","boat","bicycle"]},{"humanName":"lalalal","humanAge":23,"humanSex":false,"humanSalary":800.0,"humanTransport":["bicycle","boat"]},{"humanName":"jenie","humanAge":17,"humanSex":false,"humanSalary":500.0,"humanTransport":["bicycle"]},{"humanName":"Sem","humanAge":38,"humanSex":false,"humanSalary":1000.0,"humanTransport":["car","bicycle","motorcycle","boat"]},{"humanName":"Josh","humanAge":30,"humanSex":true,"humanSalary":1000.0,"humanTransport":["bicycle","motorcycle"]},{"humanName":"jhfjf","humanAge":22,"humanSex":false,"humanSalary":500.0,"humanTransport":["car","bicycle"]},{"humanName":"khkhkj","humanAge":25,"humanSex":true,"humanSalary":1000.0,"humanTransport":["car","motorcycle"]},{"humanName":"ihiuph","humanAge":80,"humanSex":false,"humanSalary":500.0,"humanTransport":["motorcycle"]},{"humanName":"kjdhfkvhfd","humanAge":38,"humanSex":false,"humanSalary":800.0,"humanTransport":["boat"]},{"humanName":"Uncle Sam","humanAge":65,"humanSex":true,"humanSalary":800.0,"humanTransport":["car","bicycle"]}]}
+{
+  "path": "C:/Users/33558/IdeaProjects/webProjectQuestionnaire/src/main/resources/human.json",
+  "humans": [
+    {
+      "humanName": "andrew",
+      "humanAge": 39,
+      "humanSex": true,
+      "humanSalary": 1000.0,
+      "humanTransport": [
+        "car",
+        "liner",
+        "air liner"
+      ]
+    },
+    {
+      "humanName": "andrew",
+      "humanAge": 39,
+      "humanSex": true,
+      "humanSalary": 1000.0,
+      "humanTransport": [
+        "car",
+        "liner",
+        "air liner"
+      ]
+    },
+    {
+      "humanName": "andrew",
+      "humanAge": 39,
+      "humanSex": true,
+      "humanSalary": 1000.0,
+      "humanTransport": [
+        "car",
+        "liner",
+        "air liner"
+      ]
+    },
+    {
+      "humanName": "andrew",
+      "humanAge": 25,
+      "humanSex": true,
+      "humanSalary": 500.0,
+      "humanTransport": [
+        "car",
+        "boat",
+        "motorcycle"
+      ]
+    },
+    {
+      "humanName": "andrew",
+      "humanAge": 25,
+      "humanSex": true,
+      "humanSalary": 500.0,
+      "humanTransport": [
+        "car",
+        "boat",
+        "motorcycle"
+      ]
+    },
+    {
+      "humanName": "andrew",
+      "humanAge": 25,
+      "humanSex": true,
+      "humanSalary": 500.0,
+      "humanTransport": [
+        "car",
+        "boat",
+        "motorcycle"
+      ]
+    },
+    {
+      "humanName": "andrew",
+      "humanAge": 25,
+      "humanSex": true,
+      "humanSalary": 500.0,
+      "humanTransport": [
+        "car",
+        "boat",
+        "motorcycle"
+      ]
+    },
+    {
+      "humanName": "andrew",
+      "humanAge": 25,
+      "humanSex": true,
+      "humanSalary": 500.0,
+      "humanTransport": [
+        "car",
+        "boat",
+        "motorcycle"
+      ]
+    },
+    {
+      "humanName": "andrew",
+      "humanAge": 25,
+      "humanSex": true,
+      "humanSalary": 500.0,
+      "humanTransport": [
+        "car",
+        "boat",
+        "motorcycle"
+      ]
+    },
+    {
+      "humanName": "andrew",
+      "humanAge": 25,
+      "humanSex": true,
+      "humanSalary": 500.0,
+      "humanTransport": [
+        "car",
+        "boat",
+        "motorcycle"
+      ]
+    },
+    {
+      "humanName": "andrew",
+      "humanAge": 30,
+      "humanSex": false,
+      "humanSalary": 1500.0,
+      "humanTransport": [
+        "car",
+        "boat",
+        "bicycle"
+      ]
+    },
+    {
+      "humanName": "Julia",
+      "humanAge": 23,
+      "humanSex": false,
+      "humanSalary": 1500.0,
+      "humanTransport": [
+        "car",
+        "boat",
+        "bicycle"
+      ]
+    },
+    {
+      "humanName": "Julia",
+      "humanAge": 23,
+      "humanSex": false,
+      "humanSalary": 1500.0,
+      "humanTransport": [
+        "car",
+        "boat",
+        "bicycle"
+      ]
+    },
+    {
+      "humanName": "lalalal",
+      "humanAge": 23,
+      "humanSex": false,
+      "humanSalary": 800.0,
+      "humanTransport": [
+        "bicycle",
+        "boat"
+      ]
+    },
+    {
+      "humanName": "jenie",
+      "humanAge": 17,
+      "humanSex": false,
+      "humanSalary": 500.0,
+      "humanTransport": [
+        "bicycle"
+      ]
+    },
+    {
+      "humanName": "Sem",
+      "humanAge": 38,
+      "humanSex": false,
+      "humanSalary": 1000.0,
+      "humanTransport": [
+        "car",
+        "bicycle",
+        "motorcycle",
+        "boat"
+      ]
+    },
+    {
+      "humanName": "Josh",
+      "humanAge": 30,
+      "humanSex": true,
+      "humanSalary": 1000.0,
+      "humanTransport": [
+        "bicycle",
+        "motorcycle"
+      ]
+    },
+    {
+      "humanName": "jhfjf",
+      "humanAge": 22,
+      "humanSex": false,
+      "humanSalary": 500.0,
+      "humanTransport": [
+        "car",
+        "bicycle"
+      ]
+    },
+    {
+      "humanName": "khkhkj",
+      "humanAge": 25,
+      "humanSex": true,
+      "humanSalary": 1000.0,
+      "humanTransport": [
+        "car",
+        "motorcycle"
+      ]
+    },
+    {
+      "humanName": "ihiuph",
+      "humanAge": 80,
+      "humanSex": false,
+      "humanSalary": 500.0,
+      "humanTransport": [
+        "motorcycle"
+      ]
+    },
+    {
+      "humanName": "kjdhfkvhfd",
+      "humanAge": 38,
+      "humanSex": false,
+      "humanSalary": 800.0,
+      "humanTransport": [
+        "boat"
+      ]
+    },
+    {
+      "humanName": "Uncle Sam",
+      "humanAge": 65,
+      "humanSex": true,
+      "humanSalary": 800.0,
+      "humanTransport": [
+        "car",
+        "bicycle"
+      ]
+    },
+    {
+      "humanName": "josh2",
+      "humanAge": 22,
+      "humanSex": true,
+      "humanSalary": 1000.0,
+      "humanTransport": [
+        "bicycle",
+        "motorcycle"
+      ]
+    }
+  ]
+}
