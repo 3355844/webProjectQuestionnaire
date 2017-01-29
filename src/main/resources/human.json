@@ -184,6 +184,64 @@
         "bicycle",
         "motorcycle"
       ]
+    },
+    {
+      "humanName": "jhfjf",
+      "humanAge": 22,
+      "humanSex": false,
+      "humanSalary": 500.0,
+      "humanTransport": [
+        "car",
+        "bicycle"
+      ]
+    },
+    {
+      "humanName": "khkhkj",
+      "humanAge": 25,
+      "humanSex": true,
+      "humanSalary": 1000.0,
+      "humanTransport": [
+        "car",
+        "motorcycle"
+      ]
+    },
+    {
+      "humanName": "ihiuph",
+      "humanAge": 80,
+      "humanSex": false,
+      "humanSalary": 500.0,
+      "humanTransport": [
+        "motorcycle"
+      ]
+    },
+    {
+      "humanName": "kjdhfkvhfd",
+      "humanAge": 38,
+      "humanSex": false,
+      "humanSalary": 800.0,
+      "humanTransport": [
+        "boat"
+      ]
+    },
+    {
+      "humanName": "Uncle Sam",
+      "humanAge": 65,
+      "humanSex": true,
+      "humanSalary": 800.0,
+      "humanTransport": [
+        "car",
+        "bicycle"
+      ]
+    },
+    {
+      "humanName": "josh2",
+      "humanAge": 22,
+      "humanSex": true,
+      "humanSalary": 1000.0,
+      "humanTransport": [
+        "bicycle",
+        "motorcycle"
+      ]
     }
   ]
 }
