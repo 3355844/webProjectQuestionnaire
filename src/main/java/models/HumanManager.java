@@ -44,8 +44,6 @@ public class HumanManager {
     public void writeToFile(HumanManager manager) {
         Gson gson = new GsonBuilder().create();
         try {
-            System.out.println("Come to json ");
-            System.out.println(manager.getPath());
             Writer writer = new FileWriter(new File(manager.getPath()));
             gson.toJson(manager, writer);
             writer.flush();
