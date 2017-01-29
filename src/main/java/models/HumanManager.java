@@ -10,7 +10,7 @@ import java.util.ArrayList;
  * Created by user on 27.01.2017.
  */
 public class HumanManager {
-    private String path = "C:/Users/33558/IdeaProjects/webProgectQuestionnaire/src/main/resources/human.json"; //default
+    private String path = "C:/Users/33558/IdeaProjects/webProjectQuestionnaire/src/main/resources/human.json"; //default
     private ArrayList<Human> humans = new ArrayList<Human>();
 
     public void writeToFile(HumanManager manager) {

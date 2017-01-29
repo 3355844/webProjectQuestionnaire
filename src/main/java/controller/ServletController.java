@@ -47,10 +47,9 @@ public class ServletController extends HttpServlet {
         humanManager.setHumans(humans);
         humanManager.writeToFile(humanManager);
 
-//        StatisticManager statisticManager = new StatisticManager(humanManager);
-//
-//        request.setAttribute("statisticManager", statisticManager);
-//        System.out.println(statisticManager.toString());
+        StatisticManager statisticManager = new StatisticManager(humanManager);
+        request.setAttribute("statisticManager", statisticManager);
+        System.out.println(statisticManager.toString());
         request.getRequestDispatcher("welcome.jsp").forward(request, response);
 
     }
